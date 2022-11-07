@@ -1,1 +1,2 @@
 Hi my name is Mitchell Boutilier.
+This is a merge because the text is not being altered by 2 sources.
